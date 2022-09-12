@@ -1,9 +1,16 @@
 #page {
     background-color: pink;
-    text-align: center;
 }
 
-#page .homephoto {
+.header-one,
+.header-two {
+    color: white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.homephoto {
     height: auto;
     width: 500px;
+    
 }
