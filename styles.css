@@ -1,0 +1,9 @@
+#page {
+    background-color: pink;
+    text-align: center;
+}
+
+#page .homephoto {
+    height: auto;
+    width: 500px;
+}
